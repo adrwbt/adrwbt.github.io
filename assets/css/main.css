@@ -2642,7 +2642,8 @@
 					opacity: 0.8;
 				}
 
-				.tiles article > .image:after {
+				#Diagonal white 'X' across background of tiles.
+				#.tiles article > .image:after {
 					-moz-pointer-events: none;
 					-webkit-pointer-events: none;
 					-ms-pointer-events: none;
